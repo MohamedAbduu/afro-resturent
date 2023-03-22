@@ -1,0 +1,53 @@
+body{
+
+    background-color:#5d3e3e ;
+}
+
+.site-header{
+    width: 100%;
+    background: #ffffff;
+}
+
+main{
+  text-align: center;
+  padding-top: 100px;
+  padding-right: 30px;
+  text-align: center;
+  margin-left: 400px;
+
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("../images/image-bg.jpeg");
+  
+    /* Set a specific height */
+    min-height: 700px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 50%;
+
+}
+p{
+  background-color: antiquewhite;
+  text-align: center;
+  margin-bottom: 50px;
+  width: 100%;
+  
+
+}
+img {
+  margin-top: 30px;
+  width: 100%;
+  height:100%;
+  
+}
+
+address{
+  background-color: gold;
+  text-align: center;
+}
